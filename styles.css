@@ -48,7 +48,7 @@ body {
     width: 100vw;
     height: 30vh;
     padding-top: 3em;
-    background: url("./assets/pineapple.jpg") center 75% no-repeat fixed;
+    background: url("./pineapple.jpg") center 75% no-repeat fixed;
     background-size: cover;
   }
   .header-tag { 
@@ -129,7 +129,7 @@ textarea {
     width: 100vw;
     height: 60vh;
     padding-top: 3em;
-    background: url("./assets/cycle_bike.jpg") center 75% no-repeat fixed;
+    background: url("./cycle_bike.jpg") center 75% no-repeat fixed;
     background-size: cover;
 }
     h6.header-tag {
